@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/azizkamara/Vulnerability-Management/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/azizkamara/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
@@ -21,8 +21,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="aziz_kamara| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="zizi_pro| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
+[twitter]: https://twitter.com/@Azizahmed1300
+[youtube]: https://www.youtube.com/c/cyberpra
 [instagram]: https://www.instagram.com/zizi_pro13
 [linkedin]: https://linkedin.com/in/aziz-kamara
 
